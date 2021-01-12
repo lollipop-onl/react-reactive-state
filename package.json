@@ -1,0 +1,22 @@
+{
+  "name": "react-reactive-state",
+  "description": "Provide reactive state hook for React",
+  "version": "1.0.0",
+  "author": "lollipop-onl <lollipop@simochee.net>",
+  "bugs": {
+    "url": "https://github.com/lollipop-onl/react-reactive-state/issues"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "homepage": "https://github.com/lollipop-onl/react-reactive-state#readme",
+  "keywords": [
+    "react",
+    "typescript"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": "https://github.com/lollipop-onl/react-reactive-state.git",
+  "types": "lib/index.d.ts",
+  "typings": "lib/index.d.ts"
+}
