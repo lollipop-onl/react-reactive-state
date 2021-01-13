@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/lollipop-onl/react-reactive-state/compare/v1.1.0...v1.1.1) (2021-01-13)
+
+
+### Bug Fixes
+
+* Update README ([38a70b5](https://github.com/lollipop-onl/react-reactive-state/commit/38a70b5fb7fc90c38826240eaa8d88f5a3750d18))
+
 # [1.1.0](https://github.com/lollipop-onl/react-reactive-state/compare/v1.0.0...v1.1.0) (2021-01-13)
 
 
