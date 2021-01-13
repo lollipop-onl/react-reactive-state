@@ -1,5 +1,9 @@
 import { useState } from "react";
-import { ReactiveState } from "./types";
+
+export type ReactiveState<T> = {
+  value: T;
+  reset(): void;
+};
 
 export function useReactiveState<T>(initialState: T): ReactiveState<T>;
 export function useReactiveState<T = undefined>(): ReactiveState<T | undefined>;
