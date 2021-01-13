@@ -48,6 +48,6 @@
     "build:cjs": "tsc --outDir lib",
     "build:esm": "tsc --m esNext --outDir esm",
     "build": "yarn build:cjs && yarn build:esm",
-    "semantic-release": "semantic-release"
+    "release": "semantic-release"
   }
 }
