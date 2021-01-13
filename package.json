@@ -1,5 +1,5 @@
 {
-  "name": "react-reactive-state",
+  "name": "@lollipop-onl/react-reactive-state",
   "description": "Provide reactive state hook for React",
   "version": "0.0.0-development",
   "author": "lollipop-onl <lollipop@simochee.net>",
