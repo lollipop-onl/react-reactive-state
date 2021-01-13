@@ -49,5 +49,13 @@
     "build:esm": "tsc --m esNext --outDir esm",
     "build": "yarn build:cjs && yarn build:esm",
     "release": "semantic-release"
+  },
+  "release": {
+    "branches": [
+      {
+        "name": "alpha",
+        "prerelease": "alpha"
+      }
+    ]
   }
 }

@@ -2,6 +2,7 @@ name: Release react-reactive-state
 on:
   push:
     branches:
+      - alpha
       - main
 
 jobs:
